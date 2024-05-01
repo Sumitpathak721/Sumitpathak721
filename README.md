@@ -22,7 +22,7 @@
 
 ## 👨‍💻  &nbsp;About Me 
 
-- IIIT National Level Hackathon'24 winner ✨
+- IIIT Hackathon winner'24(National Level) ✨
 - Technical Head at GFG NIET 🧑‍💻
 - Reach me with Email ID: <a href="mailto:pathaksumit721@gmail.com">pathaksumit721@gmail.com</a>
 - Solved 600 questions @Leetcode with max rating 1650🤩
